@@ -1,6 +1,13 @@
 # Brain Trainer
 A simple Android game that gives you 30 seconds to answer as many addition questions as possible! I created this app as practice :)
 
+Things I learned
+------------------
+- Transitioning from one Activity to another
+- Working with time in Android
+- Working with random values in Java
+- Working with a GridLayout
+
 Demo
 -------
 
